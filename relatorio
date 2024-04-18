@@ -1,0 +1,24 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 18/04/2024 Empresa: Abstergo Industries Responsável: Sidclei Viana Lopes
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Sidclei Viana Lopes. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - Criptografia em repouso com KMS
+
+Medida 2: -  Identity and Access Management (IAM)
+
+Medida 3: - AWS Organizations 
+
+Conclusão
+A implementação de ferramentas na empresa [nome da empresa] tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Anexos
+Neste link, existe slides que mostram especificamente sobre práticas e medidas que podemos tomar para melhorar a segurança no ambiente AWS. 
+https://pt.slideshare.net/AmazonWebServicesLATAM/prticas-para-aumentar-seu-nvel-de-segurana-na-nuvem-aws
+Assinatura do Responsável pelo Projeto:
+
+Sidclei Viana Lopes
